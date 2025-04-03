@@ -17,7 +17,7 @@ I'm Matias Diaz😉, Software enginieer 👨🏻‍💻 from Peru. I'm an open-s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,cpp,figma,git,github,java,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,angular,cpp,figma,git,github,java,nodejs,mysql" />
   </a>
 </p>
 
