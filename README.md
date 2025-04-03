@@ -28,8 +28,8 @@ I'm Matias Diaz😉, Software enginieer 👨🏻‍💻 from Peru. I'm an open-s
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=equinox-1092&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Matias+Diaz)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=equinox-1092&theme=material-palenight)](https://github.com/Equinox1092)
+[![](https://github-readme-stats.vercel.app/api?username=equinox-1092&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/equinox-1092)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=equinox-1092&theme=material-palenight)](https://github.com/equinox-1092)
 
 <br>
   
