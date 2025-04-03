@@ -2,7 +2,7 @@
 
 I'm Matias Diaz😉, Software enginieer 👨🏻‍💻 from Peru. I'm an open-source profession and mostly develop in C++.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineer;UPC+programming+student;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineer;Programming+student+UPC;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 
 ### Current Status Quo:
 
